@@ -42,6 +42,11 @@ public class Main {
                 String moshaInput = scanner.nextLine();
                 if(!moshaInput.isEmpty()){
 
+
+
+
+
+
                     moshaERe = Integer.valueOf(moshaInput);
                 }
                 Student updatedStudent = new Student();
